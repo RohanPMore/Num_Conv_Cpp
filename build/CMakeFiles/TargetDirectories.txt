@@ -1,0 +1,5 @@
+N:/Programming_VS/Cpp/Num_Conv/Num_Conv_Cpp/build/CMakeFiles/Num_Conv_Cpp.dir
+N:/Programming_VS/Cpp/Num_Conv/Num_Conv_Cpp/build/CMakeFiles/edit_cache.dir
+N:/Programming_VS/Cpp/Num_Conv/Num_Conv_Cpp/build/CMakeFiles/rebuild_cache.dir
+N:/Programming_VS/Cpp/Num_Conv/Num_Conv_Cpp/build/CMakeFiles/Num_Conv_Cpp_autogen_timestamp_deps.dir
+N:/Programming_VS/Cpp/Num_Conv/Num_Conv_Cpp/build/CMakeFiles/Num_Conv_Cpp_autogen.dir

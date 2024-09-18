@@ -1,0 +1,15 @@
+# ninja log v6
+23	1601	7483583115940098	CMakeFiles/Num_Conv_Cpp.dir/converter.cpp.obj	f836b50c49081654
+21	1513	7483583115910820	CMakeFiles/Num_Conv_Cpp.dir/main.cpp.obj	fd5f3942a48a9db7
+5	355	7483586388461052	build.ninja	b9c16e9bd7f14a94
+6	3726	7483581904721976	CMakeFiles/NumberConverterApp.dir/main.cpp.obj	de962fb73228d968
+10	3829	7483581904761501	CMakeFiles/NumberConverterApp.dir/converter.cpp.obj	11ff35484fd13264
+6	726	7483586388461052	build.ninja	b9c16e9bd7f14a94
+25	548	7483586393661165	Num_Conv_Cpp_autogen/timestamp	fbdd3806e980cec3
+25	548	7483586393661165	Num_Conv_Cpp_autogen/mocs_compilation.cpp	fbdd3806e980cec3
+25	548	7483586393661165	N:/Programming_VS/Cpp/Num_Conv/Num_Conv_Cpp/build/Num_Conv_Cpp_autogen/timestamp	fbdd3806e980cec3
+25	548	7483586393661165	N:/Programming_VS/Cpp/Num_Conv/Num_Conv_Cpp/build/Num_Conv_Cpp_autogen/mocs_compilation.cpp	fbdd3806e980cec3
+552	2499	7483586394234113	CMakeFiles/Num_Conv_Cpp.dir/main.cpp.obj	9dbd4c190874146c
+550	2502	7483586394214079	CMakeFiles/Num_Conv_Cpp.dir/Num_Conv_Cpp_autogen/mocs_compilation.cpp.obj	8f5e62385a5749
+555	2594	7483586394263965	CMakeFiles/Num_Conv_Cpp.dir/converter.cpp.obj	ee4ac5b89efc7767
+2594	2715	7483586414651484	Num_Conv_Cpp.exe	f9ed2dd9c23e7865
